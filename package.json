@@ -54,7 +54,7 @@
     "request": "^2.88.0",
     "require-from-string": "^2.0.2",
     "serve-favicon": "~2.5.0",
-    "simple-git": "^1.124.0",
+    "simple-git": "^3.16.0",
     "ssh2": "^0.8.5",
     "tar": "^4.4.10",
     "tslint": "^5.18.0",
