@@ -63,7 +63,7 @@
     "validator": "^11.1.0"
   },
   "devDependencies": {
-    "jest": "^24.8.0",
+    "jest": "^29.7.0",
     "ts-jest": "^24.0.2"
   }
 }
